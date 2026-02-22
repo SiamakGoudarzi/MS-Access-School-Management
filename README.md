@@ -6,7 +6,7 @@
 ## 🇩🇪 Deutsch
 
 ### Projektbeschreibung
-Dies ist eine professionelle relationale Datenbanklösung zur digitalen Verwaltung von Schulprozessen. Das System wurde nach akademischen Standards entwickelt و تمامی روابط پیچیده میان دانش‌آموزان، معلمان، نمرات و والدین را پوشش می‌دهد.
+Dies ist eine professionelle relationale Datenbanklösung zur digitalen Verwaltung von Schulprozessen. Das System wurde nach akademischen Standards entwickelt und deckt alle komplexen Beziehungen zwischen Schülern, Lehrern, Noten und Erziehungsberechtigten vollständig ab.
 
 ### Hauptfunktionen
 - **Personen-Management:** Zentrale Speicherung aller Akteure (Personen) mit Spezialisierung in Schüler, Lehrer und Mitarbeiter.
@@ -25,7 +25,7 @@ Das Modell ist vollständig normalisiert (3NF).
 ## 🇺🇸 English
 
 ### Project Description
-A comprehensive relational database solution designed for school administration. This project demonstrates advanced database normalization, complex SQL joins, and relational integrity.
+A comprehensive relational database solution designed for school administration. This project demonstrates advanced database normalization, complex SQL joins, and relational integrity across students, teachers, grades, and guardians.
 
 ### Key Features
 - **Human Resources:** Management of teachers, technical staff, and their qualifications.
