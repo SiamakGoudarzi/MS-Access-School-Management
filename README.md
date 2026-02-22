@@ -51,7 +51,7 @@ The architecture follows strict normalization principles to ensure data integrit
     - `06_Eltern_Schueler_Beziehung.sql`
     - `07_Notenbericht_Gesamt.sql`
 - **/docs**: `System_Requirements_Specification.pdf`, `Database_ER_Diagram.pdf`
-- **/images**: `diagram_preview.png`
+- **/images**: `diagram_preview.jpg`
 
 ## 🛠 Technologien | Technologies
 - **DBMS:** Microsoft Access (Jet/ACE Engine)
