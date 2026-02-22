@@ -17,7 +17,7 @@ Dies ist eine professionelle relationale Datenbanklösung zur digitalen Verwaltu
 ### Datenbankmodell (ER-Diagramm)
 Das Modell ist vollständig normalisiert (3NF).
 - **Vorschau:**
-![ER-Diagramm](./diagram_preview.jpg)
+![ER-Diagramm](./images/diagram_preview.jpg)
 *(Das vollständige Diagramm finden Sie unter [docs/Database_ER_Diagram.pdf](./docs/Database_ER_Diagram.pdf))*
 
 ---
