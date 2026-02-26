@@ -53,7 +53,7 @@ The architecture follows strict normalization principles to ensure data integrit
 - **/docs**: `System_Requirements_Specification.pdf`, `Database_ER_Diagram.pdf`
 - **/images**: `diagram_preview.jpg`
 
-## 🛠 Technologien | Technologies
+## Technologien | Technologies
 - **DBMS:** Microsoft Access (Jet/ACE Engine)
 - **Language:** SQL (Complex Inner Joins, Aliases)
 - **Modeling:** Entity-Relationship Modeling (ERM)
